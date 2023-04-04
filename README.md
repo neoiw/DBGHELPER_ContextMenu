@@ -11,9 +11,8 @@ You need [DBGHELPER](https://github.com/omicronrex/dbghelper/) first.
 2. Open the reg file with any text editor.
 3. Replace the `<REPLACE THIS WITH YOUR DBGHELPER LOCATION>` with the location of DBGHELPER.
 
-ex) 
+![Code_zn06TEL8qc](https://user-images.githubusercontent.com/45356936/229733117-2ab60610-b932-45c4-8a5e-ec318b917522.gif)
 
-![image](https://user-images.githubusercontent.com/45356936/229729845-c02a5b82-5f0b-4cf5-936c-3a4833ee6640.png)
 
 4. Save the file, then run it.
 5. All done!
