@@ -1,7 +1,7 @@
 # DBGHELPER_ContextMenu
 A registry file that adds DBGHELPER to your rightclick context menu
 
-![yeah](https://user-images.githubusercontent.com/45356936/229729257-f171ad14-bc3c-436d-83ce-4a00bb459ad9.png)
+![explorer_m7Voy5RLJ3](https://user-images.githubusercontent.com/45356936/229731198-d0c7cede-aedd-46da-a60a-010ecfd0f80c.gif)
 
 
 # How to use
