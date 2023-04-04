@@ -5,7 +5,7 @@ A registry file that adds DBGHELPER to your rightclick context menu
 
 
 # How to use
-You need DBGHELPER first.
+You need [DBGHELPER](https://github.com/omicronrex/dbghelper/) first.
 
 1. [Download the reg file.](https://github.com/ohmaytt/DBGHELPER_ContextMenu/releases/download/1.0/dbgcontextmenu.reg)
 2. Open the reg file with any text editor.
